@@ -1,0 +1,32 @@
+.style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 15vh;
+
+}
+#id1{
+    color: royalblue;
+
+}
+#id2{
+    color: tomato;
+
+}
+#id3{
+    color: rgb(230, 200, 66);
+
+}
+#id4{
+    color: royalblue;
+
+}
+#id5{
+    color: rgb(14, 184, 14);
+
+}
+#id6{
+    color: tomato;
+
+}

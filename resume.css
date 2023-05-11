@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(83, 163, 83);
+          font-size: 40px;
+          padding: 10px;
+          display: flex;
+          justify-content: center;
+}
+.name{
+    font-size: xx-large; font-weight: bold;
+}
+.qs{
+            background-color: aquamarine;
+            font-size: 25px;
+            font-weight: bold;
+}
+#id1{
+    background-color: aquamarine;
+}
+#id2{
+    background-color: aquamarine;
+}
+
+p{
+    font-size: large;
+}
